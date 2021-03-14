@@ -45,7 +45,7 @@ Build your pipeline to work on the images in the directory "test\_images"
 
 You should make sure your pipeline works well on these images before you try the videos.
 
-![](ReadMe_images/ReadMe_images/Aspose.Words.aea41b8e-0f46-49be-9b6b-d88d3e4b7cc4.007.jpeg)
+![](ReadMe_images/Aspose.Words.aea41b8e-0f46-49be-9b6b-d88d3e4b7cc4.007.jpeg)
 ## **	
 ##
 
@@ -122,7 +122,7 @@ Play the video inline, or if you prefer find the video in your filesystem (shoul
 ## **1 EXPECTED INPUT** 
 
 
-![](ReadMe_images/ReadMe_images/Aspose.Words.aea41b8e-0f46-49be-9b6b-d88d3e4b7cc4.013.jpeg)
+![](ReadMe_images/Aspose.Words.aea41b8e-0f46-49be-9b6b-d88d3e4b7cc4.013.jpeg)
 
 
 
@@ -140,7 +140,7 @@ Play the video inline, or if you prefer find the video in your filesystem (shoul
 ## **2 EXPECTED OUTPUT** 
 
 
-![](ReadMe_images/ReadMe_images/Aspose.Words.aea41b8e-0f46-49be-9b6b-d88d3e4b7cc4.013.jpeg)
+![](ReadMe_images/Aspose.Words.aea41b8e-0f46-49be-9b6b-d88d3e4b7cc4.013.jpeg)
 
 ` `PAGE   \\* MERGEFORMAT 2
 

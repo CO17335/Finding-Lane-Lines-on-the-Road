@@ -6,7 +6,7 @@
 ## **1 Importing Essential Libraries**
 
 
-![](Aspose.Words.aea41b8e-0f46-49be-9b6b-d88d3e4b7cc4.001.jpeg)
+![](ReadMe_images/Aspose.Words.aea41b8e-0f46-49be-9b6b-d88d3e4b7cc4.001.jpeg)
 
 
 
